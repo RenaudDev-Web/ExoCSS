@@ -1,0 +1,47 @@
+body {
+
+    text-align: center;
+    background-color: #F5F5F5;
+ 
+}
+
+
+figure {
+
+    background-color: white;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: xx-large;
+
+}
+
+figcaption {
+
+    padding: 15px;
+}
+
+
+#desc {
+    margin: auto;
+    /*margin-left: 500px;
+    margin-right: 500px;*/
+    width: 30%;
+    text-align: justify;
+  }
+
+
+li {
+
+    margin-bottom: 10px;
+}
+
+span {
+
+    font-weight: bold;
+}
